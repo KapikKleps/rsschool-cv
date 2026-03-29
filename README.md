@@ -1,4 +1,5 @@
 # rsschool-cv
-https://kapikkleps.github.io/rsschool-cv/cv.md
+https://KapikKleps.github.io/rsschool-cv/cv
+https://KapikKleps.github.io/rsschool-cv/
 
 
